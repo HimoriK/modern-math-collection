@@ -16,7 +16,7 @@ A Super Math Collection of various resources to study as painlessly as possible.
         * [Statistics](#statistics)
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
     * [Mathematical Physics](#mathematical-physics)
-    * [Articles & Reports](articles-&-reports)
+    * [Articles & Reports](articles--reports)
 
 <!-- END_TOC -->
 
