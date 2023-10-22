@@ -77,7 +77,7 @@ A Super Math Collection of various resources to study as painlessly as possible.
 
 ## Books
 
-* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania) TOME, pretty good
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Gallier (UPenn) TOME, pretty good
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
 * [Trigonometry](https://www.mecmath.net/trig/Trigonometry.pdf)
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
@@ -224,7 +224,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 ### Algebraic Geometry
 
 * [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - Igor V. Dolgachev mid read
-* [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania) ok text
+* [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Gallier, Shatz (UPenn) avg
 * [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne straightforward
 
 ### Topology
