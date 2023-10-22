@@ -54,7 +54,7 @@ A Super Math Collection of various resources to study as painlessly as possible.
   
 
 ## Youtube Series
-* [YoutubePlaylistCalc](https://addons.mozilla.org/en-US/firefox/addon/youtube-playlist-duration-calc/) [Save time by seeing it](https://www.playlistlength.com/), use 'YouTube Speed Controller'
+* [YoutubePlaylistCalc](https://addons.mozilla.org/en-US/firefox/addon/youtube-playlist-duration-calc/) | [Save time by seeing it](https://www.playlistlength.com/), use 'YouTube Speed Controller'
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) statistics, and some AI stuff
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown) some good videos
   * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN) his breakdown from algebra to calc
@@ -66,24 +66,24 @@ A Super Math Collection of various resources to study as painlessly as possible.
 
 ## Tools
 
-* [Desmos](https://www.desmos.com/calculator)
+* [Desmos](https://www.desmos.com/calculator) useful graphing
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
 * [Singular](https://www.singular.uni-kl.de/) might be useful
 * [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
-* [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/download.html) & [Insect](https://insect.sh/) 
+* [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/download.html) & [Insect](https://insect.sh/) Calculators
 
 ## Books
 
-* [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania) TOME, pretty good
-* [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
-* [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-* [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 * [Trigonometry](https://www.mecmath.net/trig/Trigonometry.pdf)
+* [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
+* [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+* [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
+* [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## Magazines
  
