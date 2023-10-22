@@ -54,7 +54,7 @@ A Super Math Collection of various resources to study as painlessly as possible.
   
 
 ## Youtube Series
-* [YoutubePlaylistCalc](https://addons.mozilla.org/en-US/firefox/addon/youtube-playlist-duration-calc/) | [Save time by seeing it](https://www.playlistlength.com/), use 'YouTube Speed Controller'
+* [YoutubePlaylistCalc](https://addons.mozilla.org/en-US/firefox/addon/youtube-playlist-duration-calc/) [Save time by seeing it](https://www.playlistlength.com/), use 'YouTube Speed Controller'
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) statistics, and some AI stuff
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown) some good videos
   * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN) his breakdown from algebra to calc
