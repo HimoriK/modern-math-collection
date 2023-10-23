@@ -66,7 +66,7 @@ A Super Math Collection of various resources to study as painlessly as possible.
 
 ## Tools
 
-* [Desmos](https://www.desmos.com/calculator) useful graphing
+* [Desmos](https://www.desmos.com/calculator) useful graphs
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
 * [Singular](https://www.singular.uni-kl.de/) might be useful
@@ -77,12 +77,12 @@ A Super Math Collection of various resources to study as painlessly as possible.
 
 ## Books
 
-* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Gallier (UPenn) TOME, pretty good
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
 * [Trigonometry](https://www.mecmath.net/trig/Trigonometry.pdf)
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
-* [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Gallier (UPenn) TOME, pretty good
+* [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## Magazines
@@ -251,7 +251,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) ok
 * [Elementary Real Analysis](https://github.com/HimoriK/awesome-math/files/11967359/TBB-AllChapters-Landscape.pdf) **GREAT** book
 * [Sequential Introduction Real Analysis](https://www.amazon.com/Sequential-Introduction-Essential-Textbooks-Mathematics/dp/1783267828) best intro?
-* [Analysis I](https://www.amazon.com/Terence-Tao-Analysis-Mathematics-CORRECTED/dp/B07WHR7TDF) recommended, 'superior to Rudin' Tao
+* [Analysis I](https://www.amazon.com/Terence-Tao-Analysis-Mathematics-CORRECTED/dp/B07WHR7TDF) [Blog](Tao https://terrytao.wordpress.com/books/analysis-i/) recommended, 'superior to Rudin'
 * [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) ok eventually
 * [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) ok
 * [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) 
