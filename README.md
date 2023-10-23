@@ -251,7 +251,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) ok
 * [Elementary Real Analysis](https://github.com/HimoriK/awesome-math/files/11967359/TBB-AllChapters-Landscape.pdf) **GREAT** book
 * [Sequential Introduction Real Analysis](https://www.amazon.com/Sequential-Introduction-Essential-Textbooks-Mathematics/dp/1783267828) best intro?
-* [Analysis I](https://www.amazon.com/Terence-Tao-Analysis-Mathematics-CORRECTED/dp/B07WHR7TDF) [Blog](Tao https://terrytao.wordpress.com/books/analysis-i/) recommended, 'superior to Rudin'
+* [Analysis I](https://www.amazon.com/Terence-Tao-Analysis-Mathematics-CORRECTED/dp/B07WHR7TDF) [Blog](https://terrytao.wordpress.com/books/analysis-i/) recommended, 'superior to Rudin' , Tao
 * [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) ok eventually
 * [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) ok
 * [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) 
