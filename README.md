@@ -248,16 +248,6 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 * [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) ok book, 1k pages
 * [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) Good
-* [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) ok
-* [Elementary Real Analysis](https://github.com/HimoriK/awesome-math/files/11967359/TBB-AllChapters-Landscape.pdf) **GREAT** book
-* [Sequential Introduction Real Analysis](https://www.amazon.com/Sequential-Introduction-Essential-Textbooks-Mathematics/dp/1783267828) best intro?
-* [Analysis I](https://www.amazon.com/Terence-Tao-Analysis-Mathematics-CORRECTED/dp/B07WHR7TDF) [Blog](https://terrytao.wordpress.com/books/analysis-i/) recommended, 'superior to Rudin' , Tao
-* [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) ok eventually
-* [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) ok
-* [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) 
-* [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) ok^2
-* [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) ok at some point
-* [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/index.html) ok
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) ok eventually
 * [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) old but ok book, combines topics well and even has a refresher of prior maths
 * [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) ^2
@@ -265,6 +255,17 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) **Challenging** workbooks, great for the active learner or to test your skills, has elegant formatting
 * [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910) **Important**
 * [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) not a bad text, 1911
+* [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) ok
+* [Elementary Real Analysis](https://github.com/HimoriK/awesome-math/files/11967359/TBB-AllChapters-Landscape.pdf) **GREAT** book
+* [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/) current 2023, open source, webwork **GREAT** book
+* [Sequential Introduction Real Analysis](https://www.amazon.com/Sequential-Introduction-Essential-Textbooks-Mathematics/dp/1783267828) best intro?
+* [Analysis I](https://www.amazon.com/Terence-Tao-Analysis-Mathematics-CORRECTED/dp/B07WHR7TDF) [Blog](https://terrytao.wordpress.com/books/analysis-i/) recommended, 'superior to Rudin' , Tao
+* [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) ok eventually
+* [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) ok
+* [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) 
+* [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) ok^2 w solutions
+* [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) ok at some point
+* [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/index.html) ok
 * [Complex Analysis](https://www.amazon.com/Complex-Analysis-Springer-Undergraduate-Mathematics/dp/1852337338)
 
 ### Harmonic Analysis
