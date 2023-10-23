@@ -246,9 +246,12 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 ### Real Analysis
 
+* [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) ok book, 1k pages
 * [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) Good
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) ok
 * [Elementary Real Analysis](https://github.com/HimoriK/awesome-math/files/11967359/TBB-AllChapters-Landscape.pdf) **GREAT** book
+* [Sequential Introduction Real Analysis](https://www.amazon.com/Sequential-Introduction-Essential-Textbooks-Mathematics/dp/1783267828) best intro?
+* [Analysis I](https://www.amazon.com/Terence-Tao-Analysis-Mathematics-CORRECTED/dp/B07WHR7TDF) recommended, 'superior to Rudin' Tao
 * [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) ok eventually
 * [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) ok
 * [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) 
@@ -262,7 +265,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) **Challenging** workbooks, great for the active learner or to test your skills, has elegant formatting
 * [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910) **Important**
 * [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) not a bad text, 1911
-* [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) ok book, 1k pages
+* [Complex Analysis](https://www.amazon.com/Complex-Analysis-Springer-Undergraduate-Mathematics/dp/1852337338)
 
 ### Harmonic Analysis
 
