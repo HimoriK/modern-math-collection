@@ -24,11 +24,11 @@ A Super Math Collection of various resources to study as painlessly as possible.
 
 ## Learning Platforms
 
-* [Khan Academy](https://www.khanacademy.org/math) free, used in many schools for practice, however confusing videos and limited plans
-* [Coolmath](https://www.coolmath.com/) free, existed since dawn of internet, colorful with good examples (up to pre-calc)
-* [OpenAlgebra](https://www.openalgebra.com/) free, links to short videos 
-* [Calculus.org](http://calculus.org/) various links to calculus resources
+* [OpenAlgebra](https://www.openalgebra.com/) free, links to short videos
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio StateU)
+* [Khan Academy](https://www.khanacademy.org/math) free, recommended by many schools for practice, limited
+* [Coolmath](https://www.coolmath.com/) free, existed since dawn of internet, colorful with good examples (up to pre-calc) 
+* [Calculus.org](http://calculus.org/) various links to calculus resources
 
 ## Learn to Learn
 
@@ -67,7 +67,7 @@ A Super Math Collection of various resources to study as painlessly as possible.
 ## Tools
 
 * [Desmos](https://www.desmos.com/calculator) useful graphs
-* [Sympy](https://www.sympy.org/)
+* [Symbolab](https://www.symbolab.com)
 * [Sagemath](http://www.sagemath.org/)
 * [Singular](https://www.singular.uni-kl.de/) might be useful
 * [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
