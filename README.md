@@ -26,6 +26,7 @@ A Super Math Collection of various resources to study as painlessly as possible.
 
 * [OpenAlgebra](https://www.openalgebra.com/) free, links to short videos
 * [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio StateU)
+* [Math.net](https://www.math.net/) - brief selection of math topics (up to calc)
 * [Khan Academy](https://www.khanacademy.org/math) free, recommended by many schools for practice, limited
 * [Coolmath](https://www.coolmath.com/) free, existed since dawn of internet, colorful with good examples (up to pre-calc) 
 * [Calculus.org](http://calculus.org/) various links to calculus resources
