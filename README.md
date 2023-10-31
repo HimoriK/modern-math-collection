@@ -1,5 +1,5 @@
-# Super Math
-A Super Math Collection of various resources to study as painlessly as possible. Uses books and videos.
+# Modern Math
+A collection of modern math resources. Uses books and videos.
 * [New Math](https://en.wikipedia.org/wiki/New_Math) | [Math Education](https://en.wikipedia.org/wiki/Mathematics_education)
 
 # Contents
