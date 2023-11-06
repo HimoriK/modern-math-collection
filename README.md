@@ -314,7 +314,8 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 * [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland) good intro
 * [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley) cookbook cheatsheet
-* [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen pretty good, also check [Introduction to Probability](https://github.com/HimoriK/awesome-math/files/13058714/Introduction.to.Probability.pdf)
+* [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen pretty good, also check [Introduction to Probability](https://github.com/HimoriK/modern-math-collection/files/13261277/Introduction.to.Probability.pdf)
+
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan ok text
 
 ### Statistics
