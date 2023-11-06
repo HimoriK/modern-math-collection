@@ -72,6 +72,7 @@ A collection of modern math resources. Uses books and videos.
 * [Sagemath](http://www.sagemath.org/)
 * [Singular](https://www.singular.uni-kl.de/) might be useful
 * [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
+* [Mathway](https://mathway.com) check answers
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
 * [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/download.html) & [Insect](https://insect.sh/) Calculators
