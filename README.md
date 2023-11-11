@@ -38,6 +38,7 @@ A collection of modern math resources. Uses books and videos.
 ## Recommended List
 
 * ~~[Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) **Tome**, mid reference~~
+* [Algebra Collection](https://math.oit.edu/~watermang/texts.html) diverse, brief with [links](youtube.com/@watermanOIT)
 * [Precalculus Collection](https://www.stitz-zeager.com/) Various books on precalculus, an AIO [bundle](https://www.openintro.org/)
 * [Trig Worksheet](https://www.trigcheatsheet.com/) diagram worksheet
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/ila.pdf) great book, 450 pages
@@ -158,6 +159,12 @@ A collection of modern math resources. Uses books and videos.
 
 ## Algebra
 
+### College Algebra
+
+* [Intermediate Algebra](https://math.oit.edu/~watermang/math_100/100book.pdf) Gregg Waterman, OIT
+* [College Algebra](https://math.oit.edu/~watermang/math_100/100book.pdf) Waterman, OIT
+* [Algebra Collection](https://math.oit.edu/~watermang/texts.html) diverse, brief [author links](youtube.com/@watermanOIT)
+
 ### Abstract Algebra
 
 * [Introduction to Abstract Algebra](https://github.com/HimoriK/awesome-math/files/11939661/MTH_581-582_Introduction_to_Abstract_Algebra.pdf) Introductory text with notation
@@ -181,6 +188,7 @@ A collection of modern math resources. Uses books and videos.
 * [Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Nathaniel-Johnston/dp/3030528103) [vid](https://www.youtube.com/watch?v=KJcROj6fP4s)
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett interesting text, watermarked
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon font sucks, but ok
+* [Intro Linear Algebra](https://math.oit.edu/~watermang/math_341/341book_18.pdf) solid, may need formatting or update Waterman, 2016
 * [Elementary Linear Algebra](https://github.com/HimoriK/awesome-math/files/13064537/Elementary.Linear.Algebra.-.Munkres.1964.pdf) dated, possibly useful Munkres, 1964
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
