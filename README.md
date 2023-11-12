@@ -132,6 +132,7 @@ A collection of modern math resources. Uses books and videos.
 ### Category Theory
 
 * [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) ok, maybe useful at some point
+* [Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) maybe useful, organized Fong & Spivak
 
 ### Homotopy Type Theory
 
