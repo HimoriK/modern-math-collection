@@ -341,6 +341,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [An Introduction to Statistical Learning with Applications in R](https://trevorhastie.github.io/ISLR/ISLR%20Seventh%20Printing.pdf) not a fan of R, but great book
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) Ab
 * [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang ok notes
+* [Machine Learning for Engineers and Scientists](https://smlbook.org/book/sml-book-draft-latest.pdf) great introduction to machine learning, 2022
 * [Reinforcement Learning: An Introduction](https://ia802802.us.archive.org/8/items/rlbook2018/RLbook2018.pdf) wordy, hard to read font, DOES introduce the topic though
 
 ### Stochastic processes
