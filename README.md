@@ -164,7 +164,7 @@ A collection of modern math resources. Uses books and videos.
 ### College Algebra
 
 * [Intermediate Algebra](https://math.oit.edu/~watermang/math_100/100book.pdf) Gregg Waterman, OIT
-* [College Algebra](https://math.oit.edu/~watermang/math_100/100book.pdf) Waterman, OIT
+* [College Algebra](https://math.oit.edu/~watermang/math_111/111book.pdf) Waterman, OIT
 * [Algebra Collection](https://math.oit.edu/~watermang/texts.html) diverse, brief [author links](youtube.com/@watermanOIT)
 
 ### Abstract Algebra
