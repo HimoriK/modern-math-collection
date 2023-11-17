@@ -80,7 +80,7 @@ A collection of modern math resources. Uses books and videos.
 
 ## Books
 
-* [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
+* [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/book.html)
 * [Trigonometry](https://www.mecmath.net/trig/Trigonometry.pdf)
 * [Precalculus](http://www.wallace.ccfaculty.org/) - Wallace, many math learning materials
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
