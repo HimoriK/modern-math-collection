@@ -82,6 +82,7 @@ A collection of modern math resources. Uses books and videos.
 
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
 * [Trigonometry](https://www.mecmath.net/trig/Trigonometry.pdf)
+* [Precalculus](http://www.wallace.ccfaculty.org/) - Wallace, many math learning materials
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Gallier (UPenn) TOME, pretty good
