@@ -38,7 +38,7 @@ A collection of modern math resources. Uses books and videos.
 ## Recommended List
 
 * ~~[Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) **Tome**, mid reference~~
-* [Algebra Collection](https://math.oit.edu/~watermang/texts.html) diverse, brief with [links](youtube.com/@watermanOIT)
+* [Algebra Collection](https://math.oit.edu/~watermang/texts.html) diverse, brief with [links](https://youtube.com/@watermanOIT)
 * [Precalculus Collection](https://www.stitz-zeager.com/) Various books on precalculus, an AIO [bundle](https://www.openintro.org/)
 * [Trig Worksheet](https://www.trigcheatsheet.com/) diagram worksheet
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/ila.pdf) great book, 450 pages
@@ -56,14 +56,13 @@ A collection of modern math resources. Uses books and videos.
   
 
 ## Youtube Series
-* [YoutubePlaylistCalc](https://addons.mozilla.org/en-US/firefox/addon/youtube-playlist-duration-calc/) [Save time by seeing it](https://www.playlistlength.com/), use 'YouTube Speed Controller'
+* [YoutubePlaylistCalc](https://addons.mozilla.org/en-US/firefox/addon/youtube-playlist-duration-calc/) [&Length](https://www.playlistlength.com/), use 'YouTube Speed Controller'
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) statistics, and some AI stuff
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown) some good videos
   * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN) his breakdown from algebra to calc
 * [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor/playlists) imo, him and Leonard are the only 2 channels. TOCT teaches every subject efficiently.
 * [Mathematical Monk](https://www.youtube.com/@mathematicalmonk) interesting byte-sized scientific maths (2010), check probability playlist
 * [HamblinMath](https://www.youtube.com/@HamblinMath) variety of math vids, check linear algebra playlist
-* [Mathispower4u](https://www.youtube.com/@Mathispower4u/playlists) full math content, slightly organized by site, mid.
 * ~~[M4ML](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) Machine Learning math course~~
 
 ## Tools
@@ -73,16 +72,16 @@ A collection of modern math resources. Uses books and videos.
 * [Sagemath](http://www.sagemath.org/)
 * [Singular](https://www.singular.uni-kl.de/) might be useful
 * [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
-* [Mathway](https://mathway.com) check answers
+* [Cymath](https://Cymath.com)&[Mathway](https://mathway.com) check answers
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
-* [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/download.html) & [Insect](https://insect.sh/) Calculators
+* [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/download.html)&[Insect](https://insect.sh/) calculators
 
 ## Books
 
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/book.html)
 * [Trigonometry](https://www.mecmath.net/trig/Trigonometry.pdf)
-* [Precalculus](http://www.wallace.ccfaculty.org/) - Wallace, many math learning materials
+* [Precalculus](http://www.wallace.ccfaculty.org/) - Wallace, many learning materials
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Gallier (UPenn) TOME, pretty good
@@ -128,7 +127,7 @@ A collection of modern math resources. Uses books and videos.
 * [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) easy intro to proofs book, 2016
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf) ok proofs book
 * [Logic and Proof](http://leanprover.github.io/logic_and_proof/) another good intro 
-* [Open Logic Textbook](http://builds.openlogicproject.org/) - collaborative effort, main contributors listed [here](https://openlogicproject.org/people/)
+* [Open Logic Textbook](http://builds.openlogicproject.org/) L collaborative effort, main contributors listed [here](https://openlogicproject.org/people/)
 
 ### Category Theory
 
@@ -243,7 +242,6 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 * [Principles of Topology](https://www.amazon.com/Principles-Topology-Dover-Books-Mathematics/dp/0486801543) Croom (easiest introduction)
 * [Topology](https://www.amazon.com/Topology-Classic-Classics-Advanced-Mathematics/dp/0134689518) Munkres (highly recommended)
-* [TopologywoTears](https://www.topologywithouttears.net) avg
 * [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) good
 * [Topology Topics](http://mathonline.wikidot.com/topology) wiki
 
@@ -379,7 +377,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [Computer Networks](https://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf) detailed, good book
 * [Computer Networking Principles & Practice](https://beta.computer-networking.info) eh
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) good intro book, pair with prerquisite
-* [Chaos: Classical and Quantum](https://chaosbook.org/chapters/ChaosBook.pdf) wacky writing/book, maybe something interesting
+* [Chaos: Classical and Quantum](https://chaosbook.org/chapters/ChaosBook.pdf) wacky writing, maybe something of interest
 * [Deep Learning Introduction](https://www.youtube.com/watch?v=s2uXPz3wyCk&list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57&t=67s) relevant by Durham University
 
 ## Mathematical Biology
