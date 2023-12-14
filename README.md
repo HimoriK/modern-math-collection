@@ -41,6 +41,7 @@ A collection of modern math resources. Uses books and videos.
 * [Algebra Collection](https://math.oit.edu/~watermang/texts.html) diverse, brief with [links](https://youtube.com/@watermanOIT)
 * [Precalculus Collection](https://www.stitz-zeager.com/) Various books on precalculus, an AIO [bundle](https://www.openintro.org/)
 * [Trig Worksheet](https://www.trigcheatsheet.com/) diagram worksheet
+* [Understanding Linear Algebra](https://understandinglinearalgebra.org/home.html) good book, clear
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/ila.pdf) great book, 450 pages
 * [Tea Time Linear Algebra](https://raw.githubusercontent.com/lqbrin/tea-time-linear/main/TeaTimeLinearAlgebra-edition02.pdf) best book possibly
 * [Linear Algebra 4th Edtion](https://joshua.smcvt.edu/linearalgebra/book.pdf) - Jim Hefferon small font, clear
@@ -185,6 +186,7 @@ A collection of modern math resources. Uses books and videos.
 ### Linear Algebra
 
 * [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell good
+* [Understanding Linear Algebra](https://understandinglinearalgebra.org/home.html) - David Austin good, organized in a friendly way
 * [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch good
 * [Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Nathaniel-Johnston/dp/3030528103) [vid](https://www.youtube.com/watch?v=KJcROj6fP4s)
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett interesting text, watermarked
