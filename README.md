@@ -73,8 +73,9 @@ A collection of modern math resources. Uses books and videos.
 * [Sagemath](http://www.sagemath.org/)
 * [Singular](https://www.singular.uni-kl.de/) might be useful
 * [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
-* [Cymath](https://Cymath.com)&[Mathway](https://mathway.com) check answers
+* [Cymath](https://Cymath.com),[Mathway](https://mathway.com)&[Tiger-algebra](https://tiger-algebra.com) check answers
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
+* [Typst](https://typst.app/) Modern TeX alternative
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
 * [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/download.html)&[Insect](https://insect.sh/) calculators
 
@@ -265,7 +266,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) ^2
 * [Elementary Calculus](https://www.mecmath.net/calculus/ElementaryCalculus.pdf) **GREAT** book, has followups
 * [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) **Challenging** workbooks, has elegant formatting
-* [Calculus Made Easy](http://calculusmadeeasy.org/) - Silvanus P. Thompson (1910) **Important**
+* [Calculus Made Easy](https://schtschenok.github.io/calculus-made-easy/) - Silvanus P. Thompson (1910) **Important**
 * [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) not a bad text, 1911
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) ok
 * [Elementary Real Analysis](https://github.com/HimoriK/awesome-math/files/11967359/TBB-AllChapters-Landscape.pdf) **GREAT** book
