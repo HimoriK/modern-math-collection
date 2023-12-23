@@ -73,6 +73,7 @@ A collection of modern math resources. Uses books and videos.
 * [Sagemath](http://www.sagemath.org/)
 * [Singular](https://www.singular.uni-kl.de/) might be useful
 * [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
+* [VisualFractions](https://visualfractions.com/) useful examples
 * [Cymath](https://Cymath.com), [Mathway](https://mathway.com), & [Tiger-algebra](https://tiger-algebra.com) check answers
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
 * [Typst](https://typst.app/) Modern TeX alternative
