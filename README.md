@@ -12,7 +12,7 @@ A collection of modern math resources. Uses books and videos.
     * [Tools](#tools)
     * [Books](#books)
     * [Algebra](#algebra)
-    * [Analysis](#analysis]
+    * [Analysis](#analysis)
     * [Probability and Statistics](#probability-and-statistics)
         * [Probability Theory](#probability-theory)
         * [Statistics](#statistics)
