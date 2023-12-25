@@ -181,7 +181,6 @@ A collection of modern math resources. Uses books and videos.
 * [Abstract Algebra: A Concrete Introduction](https://www.amazon.com/Abstract-Algebra-Concrete-Introduction-Beachy/dp/0130044253) Math sorcerer recommends, but dated
 * [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross (haven't checked, not a fan of videos though)
 * [Modern Algebra I](https://github.com/HimoriK/awesome-math/files/11968804/Modern.Algebra.I.1965.PrenticeHall.pdf) - Seth Warner Old text, but seems ok (replace)
-* https://amazon.com/dp/0486442500
 * [Noncommutative Rings](https://amazon.com/First-Course-Noncommutative-Graduate-Mathematics/dp/0387953256)
 * [Abstract Algebra: AMS](https://amazon.com/Algebra-Chelsea-Publishing-Saunders-Lane/dp/0821816462)
 
