@@ -179,6 +179,9 @@ A collection of modern math resources. Uses books and videos.
 * [Abstract Algebra: A Concrete Introduction](https://www.amazon.com/Abstract-Algebra-Concrete-Introduction-Beachy/dp/0130044253) Math sorcerer recommends, but dated
 * [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross (haven't checked, not a fan of videos though)
 * [Modern Algebra I](https://github.com/HimoriK/awesome-math/files/11968804/Modern.Algebra.I.1965.PrenticeHall.pdf) - Seth Warner Old text, but seems ok (replace)
+* https://amazon.com/dp/0486442500
+* [Noncommutative Rings](https://amazon.com/First-Course-Noncommutative-Graduate-Mathematics/dp/0387953256)
+* [Abstract Algebra: AMS](https://amazon.com/Algebra-Chelsea-Publishing-Saunders-Lane/dp/0821816462)
 
 ### Group Theory
 
@@ -383,6 +386,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) good intro book, pair with prerquisite
 * [Chaos: Classical and Quantum](https://chaosbook.org/chapters/ChaosBook.pdf) wacky writing, maybe something of interest
 * [Deep Learning Introduction](https://www.youtube.com/watch?v=s2uXPz3wyCk&list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57&t=67s) relevant by Durham University
+* [Algorithm and Systems Analysis](https://amazon.com/dp/0486442500)
 
 ## Mathematical Biology
 
