@@ -11,6 +11,8 @@ A collection of modern math resources. Uses books and videos.
     * [Youtube Series](#youtube-series)
     * [Tools](#tools)
     * [Books](#books)
+    * [Algebra](#algebra)
+    * [Analysis](#analysis]
     * [Probability and Statistics](#probability-and-statistics)
         * [Probability Theory](#probability-theory)
         * [Statistics](#statistics)
@@ -74,7 +76,7 @@ A collection of modern math resources. Uses books and videos.
 * [Singular](https://www.singular.uni-kl.de/) might be useful
 * [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
 * [VisualFractions](https://visualfractions.com/) useful examples
-* [Cymath](https://Cymath.com), [Mathway](https://mathway.com), & [Tiger-algebra](https://tiger-algebra.com) check answers
+* [Cymath](https://cymath.com), [Mathway](https://mathway.com), & [Tiger-algebra](https://tiger-algebra.com) check answers
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
 * [Typst](https://typst.app/) Modern TeX alternative
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
@@ -232,6 +234,12 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 * [Euclid's Elements Redux](https://ia800701.us.archive.org/28/items/euclid-elements-redux_201809/euclid-a4.pdf) Rare
 * [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) ok, old
+* [Non Euclidean Geometry MAA](https://amazon.com/Non-Euclidean-Geometry-Mathematical-Association-Textbooks/dp/0883855224)
+* [Introduction to Euclidean Space](https://arxiv.org/abs/1302.1630)
+* [Geometry and Its Applications](https://a.co/d/dyOki90) new
+* [Classical Euclidean Geometry](https://amazon.com/Classical-Geometry-Euclidean-Transformational-Projective/dp/1118679199)
+* [Geometry](https://www.amazon.com/Geometry-Edwin-Moise/dp/0201253356)
+* [Six books of Euclid](https://archive.org/details/firstsixbooksofe00eucl/page/n5/mode/2up)
 * [Analytic Geometry](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - George Wentworth, etc (1922) also old, maybe useful
 
 ### Differential Geometry
@@ -386,7 +394,8 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) good intro book, pair with prerquisite
 * [Chaos: Classical and Quantum](https://chaosbook.org/chapters/ChaosBook.pdf) wacky writing, maybe something of interest
 * [Deep Learning Introduction](https://www.youtube.com/watch?v=s2uXPz3wyCk&list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57&t=67s) relevant by Durham University
-* [Algorithm and Systems Analysis](https://amazon.com/dp/0486442500)
+* [OpenMLGuide](openmlguide.org) updated guide to learn AI/ML
+* [Algorithm and Systems Analysis](https://amazon.com/dp/0486442500) old book on algorithms 
 
 ## Mathematical Biology
 
@@ -396,6 +405,11 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 * [Introduction to Continuum Mechanics](https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/2501/IntroductionToContinuumMechanicsRevisedEdition.pdf?sequence=6&isAllowed=y) Advanced text
 * [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - James Nearing
+* [An Introduction to Mechanics](https://www.amazon.com/Introduction-Mechanics-Daniel-Kleppner/dp/0521198119) more modern, eh text
+* [Physics, Parts 1 & 2, Combined Edition](https://www.amazon.com/Physics-Parts-1-2-Combined/dp/B001E0ACHQ) 1966 raved as the best book to learn physics, [updated version](https://www.amazon.com/Fundamentals-Physics-Extended-David-Halliday-ebook/dp/B09P23L6NK) Principles of Physics is easier to read. 
+* [Mechanics Introduction](https://www.amazon.com/Mechanics-Extended-Introduction-Shankar-Balasubramanian/dp/1518659918) 2016, seems good
+* [Fundamental University Physics Vol 3](https://www.if.ufrj.br/~rrds/cursos/fisica3/Alonso_%20Finn-Fundamental_University_Physics-Vol_III.pdf) classic series, interesting, referenced as the best
+* [The Mechanical Universe: Introduction to Mechanics and Heat](https://www.amazon.com/Mechanical-Universe-Introduction-Mechanics-Heat/dp/0521304296) classic, contains calculus, 1985
 
 # Articles & Reports
 
