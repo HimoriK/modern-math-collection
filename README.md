@@ -6,7 +6,7 @@ A collection of modern math resources. Uses books and videos.
 
 <!-- START_TOC -->
 
-* [Contents](#contents)
+* [Table of Contents](#contents)
 * [General Resources](#general-resources)
     * [Youtube Series](#youtube-series)
     * [Tools](#tools)
@@ -16,9 +16,9 @@ A collection of modern math resources. Uses books and videos.
     * [Probability and Statistics](#probability-and-statistics)
         * [Probability Theory](#probability-theory)
         * [Statistics](#statistics)
-    * [Mathematics for Computer Science](#mathematics-for-computer-science)
+* [Mathematics for Computer Science](#mathematics-for-computer-science)
     * [Mathematical Physics](#mathematical-physics)
-    * [Articles & Reports](#articles--reports)
+* [Contribute](#contribute)
 
 <!-- END_TOC -->
 
@@ -414,3 +414,16 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 * [K-12 Aptitude Decline](https://www.pbs.org/newshour/show/study-shows-parents-overestimate-their-students-academic-progress)
 * [Test Score Success Correlation](https://www.nber.org/papers/w30701)
+
+## Contribute
+
+Since there are many resources out there, the priority is to add notable but also niche ones that happen to be modern.
+If a source is incorrect or too outdated to use, and has too many critical errors, the goal is to replace or remove it.
+To contribute;
+1. Fork the repo, make a new branch.
+2. Make necessary changes within that branch.
+3. Commit changes with clear notes and pull request.
+
+Any contributions are appreciated!
+
+[Table of Contents](https://github.com/HimoriK/#contents)
