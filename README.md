@@ -232,13 +232,11 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 ## Geometry and Topology
 
 * [Euclid's Elements Redux](https://ia800701.us.archive.org/28/items/euclid-elements-redux_201809/euclid-a4.pdf) Rare
-* [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) ok, old
 * [Non Euclidean Geometry MAA](https://amazon.com/Non-Euclidean-Geometry-Mathematical-Association-Textbooks/dp/0883855224)
 * [Introduction to Euclidean Space](https://arxiv.org/abs/1302.1630)
 * [Geometry and Its Applications](https://a.co/d/dyOki90) new
 * [Classical Euclidean Geometry](https://amazon.com/Classical-Geometry-Euclidean-Transformational-Projective/dp/1118679199)
 * [Geometry](https://www.amazon.com/Geometry-Edwin-Moise/dp/0201253356)
-* [Six books of Euclid](https://archive.org/details/firstsixbooksofe00eucl/page/n5/mode/2up)
 * [Analytic Geometry](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - George Wentworth, etc (1922) also old, maybe useful
 
 ### Differential Geometry
