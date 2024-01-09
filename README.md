@@ -32,6 +32,7 @@ A collection of modern math resources. Uses books and videos.
 * [Khan Academy](https://www.khanacademy.org/math) free, recommended by many schools for practice, limited
 * [Coolmath](https://www.coolmath.com/) free, existed since dawn of internet, colorful with good examples (up to pre-calc) 
 * [Calculus.org](http://calculus.org/) various links to calculus resources
+* [RealNotComplex](https://realnotcomplex.com) several links of math topics
 
 ## Learn to Learn
 
@@ -41,6 +42,7 @@ A collection of modern math resources. Uses books and videos.
 
 * ~~[Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) **Tome**, mid reference~~
 * [Algebra Collection](https://math.oit.edu/~watermang/texts.html) diverse, brief with [links](https://youtube.com/@watermanOIT)
+* [Before Calculus](placebo.com) pick it
 * [Precalculus Collection](https://www.stitz-zeager.com/) Various books on precalculus, an AIO [bundle](https://www.openintro.org/)
 * [Trig Worksheet](https://www.trigcheatsheet.com/) diagram worksheet
 * [Understanding Linear Algebra](https://understandinglinearalgebra.org/home.html) good book, clear
@@ -170,6 +172,7 @@ A collection of modern math resources. Uses books and videos.
 * [Intermediate Algebra](https://math.oit.edu/~watermang/math_100/100book.pdf) Gregg Waterman, OIT
 * [College Algebra](https://math.oit.edu/~watermang/math_111/111book.pdf) Waterman, OIT
 * [Algebra Collection](https://math.oit.edu/~watermang/texts.html) diverse, brief [author links](youtube.com/@watermanOIT)
+* [College Algebra](https://github.com/HimoriK/modern-math-collection/files/13861652/College.algebra.--.Leithold.1980.pdf) Leithold, 1980
 
 ### Abstract Algebra
 
@@ -270,6 +273,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 * [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) ok book, 1k pages
 * [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) Good
+* [The Calculus 7](https://a.co/d/7qKoCsh) Legendary calculus book
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) ok eventually
 * [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) old but ok book, combines topics well and even has a refresher of prior maths
 * [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) ^2
@@ -412,6 +416,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 * [K-12 Aptitude Decline](https://www.pbs.org/newshour/show/study-shows-parents-overestimate-their-students-academic-progress)
 * [Test Score Success Correlation](https://www.nber.org/papers/w30701)
+* [The Beginnings & Evolution of Algebra](https://github.com/HimoriK/modern-math-collection/files/13861730/The.beginnings.and.evolution.of.algebra.Bashmakova.pdf)
 
 ## Contribute
 
