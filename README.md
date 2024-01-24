@@ -273,7 +273,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 * [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) ok book, 1k pages
 * [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) Good
-* [The Calculus 7](https://a.co/d/7qKoCsh) Legendary calculus book
+* [The Calculus 7](https://a.co/d/7qKoCsh) Legendary calculus book [single variable](https://archive.org/details/calculus7ofsingl0000leit/mode/2up?view=theater)
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) ok eventually
 * [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) old but ok book, combines topics well and even has a refresher of prior maths
 * [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) ^2
@@ -286,6 +286,9 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/) current 2023, open source, webwork **GREAT** book
 * [Sequential Introduction Real Analysis](https://www.amazon.com/Sequential-Introduction-Essential-Textbooks-Mathematics/dp/1783267828) best intro?
 * [Analysis I](https://www.amazon.com/Terence-Tao-Analysis-Mathematics-CORRECTED/dp/B07WHR7TDF) [Blog](https://terrytao.wordpress.com/books/analysis-i/) recommended, 'superior to Rudin' , Tao
+* [Understanding Analysis](https://csunibo.github.io/analisi-matematica/libri/real-analysis.pdf) Abbot real analysis of the single variable, good
+* [Differential and Integral Calculus, Vol.1](https://ia802904.us.archive.org/21/items/ost-math-courant-differentialintegralcalculusvoli/Courant-DifferentialIntegralCalculusVolI.pdf) Courant Calculus, praised as legendary
+* [Introduction to Calculus and Analysis, Vol. 1](https://archive.org/details/introductiontoca00cour/page/n27/mode/2up) Courant Calculus with Analysis, classic 1965 **Excellent** 
 * [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) ok eventually
 * [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) ok
 * [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) 
