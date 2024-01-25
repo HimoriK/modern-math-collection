@@ -265,6 +265,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/AT.pdf) ok
 * [A Concise Course in Algebraic Topology](http://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf) good
 * [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) ok
+* [Topology: A Categorical Approach](https://topology.mitpress.mit.edu/) topology using category theory
 
 
 ## Analysis
