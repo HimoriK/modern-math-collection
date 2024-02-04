@@ -147,12 +147,12 @@ A collection of modern math resources. Uses books and videos.
 
 ## Number Theory
 
-* [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) ok text
-* [Elementary Number Theory:Primes, Congruences, and Secrets](https://wstein.org/ent/ent.pdf) good brief text
+* [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) ok intro text
+* [Elementary Number Theory:Primes, Congruences, and Secrets](https://wstein.org/ent/ent.pdf) **great** brief text
 * [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) light text on number theory
 * [Introduction to the Theory of Numbers](http://www.trillia.com/dA/moser-number-a4-one.pdf) mid
 * [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) interesting text, although font sucks
-* [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) pretty good introductory text
+* [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) decent
 
 ### Algebraic Number Theory
 
