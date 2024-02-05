@@ -30,7 +30,7 @@ A collection of modern math resources. Uses books and videos.
 * [Ximera](https://ximera.osu.edu/) free interactive mathematics textbooks (Ohio StateU)
 * [Math.net](https://www.math.net/) brief lexis of math topics (up to calc)
 * [Khan Academy](https://www.khanacademy.org/math) free, recommended by many schools for practice, limited
-* [Coolmath](https://www.coolmath.com/) free, existed since dawn of internet, colorful with good examples (up to pre-calc) 
+* [Coolmath](https://www.coolmath.com/) free, existed early online, good visual examples (up to pre-calc) 
 * [Calculus.org](http://calculus.org/) various links to calculus resources
 * [RealNotComplex](https://realnotcomplex.com) several links of math topics
 
@@ -55,7 +55,7 @@ A collection of modern math resources. Uses books and videos.
 * [Probability for the Enthusiastic Beginner](https://github.com/HimoriK/awesome-math/files/13058663/Probability2016.pdf) intense 'beginner' book 
 * [Introduction to Probability](https://projects.iq.harvard.edu/stat110/) full resources, perhaps best stats book
 * [Modern Statistical Thinking](https://statsthinking21.github.io/statsthinking21-core-site) 
-* [Multivariable Calculus](https://www.whitman.edu/mathematics/multivariable/) solid intro to calculus, read 'early transcendental' versions
+* [Multivariable Calculus](https://www.whitman.edu/mathematics/multivariable/) ok intro to calculus, use 'early transcendental' versions
 * [Vector Calculus](https://mecmath.net/VectorCalculus.pdf) 'calc3'
 * [Measure, Integration & Real Analysis](https://measure.axler.net/MIRA.pdf) difficult text
   
@@ -66,7 +66,7 @@ A collection of modern math resources. Uses books and videos.
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown) some good videos
   * [To The Point Math](https://www.youtube.com/playlist?list=PLDesaqWTN6ETc1ZwHWijCBcZ2gOvS2tTN) his breakdown from algebra to calc
 * [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor/playlists) imo, him and Leonard are the only 2 channels. TOCT teaches every subject efficiently.
-* [Mathematical Monk](https://www.youtube.com/@mathematicalmonk) interesting byte-sized scientific maths (2010), check probability playlist
+* [Mathematical Monk](https://www.youtube.com/@mathematicalmonk) byte-sized scientific maths (2010), check probability playlist
 * [HamblinMath](https://www.youtube.com/@HamblinMath) variety of math vids, check linear algebra playlist
 * ~~[M4ML](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) Machine Learning math course~~
 
@@ -76,7 +76,7 @@ A collection of modern math resources. Uses books and videos.
 * [Symbolab](https://www.symbolab.com)
 * [Sagemath](http://www.sagemath.org/)
 * [Singular](https://www.singular.uni-kl.de/) might be useful
-* [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, compatible with matlab
+* [GNU Octave](https://www.gnu.org/software/octave/) maybe also useful, works with matlab
 * [VisualFractions](https://visualfractions.com/) useful examples
 * [Cymath](https://cymath.com), [Mathway](https://mathway.com), & [Tiger-algebra](https://tiger-algebra.com) check answers
 * [Magma](http://magma.maths.usyd.edu.au/magma/)
@@ -97,9 +97,9 @@ A collection of modern math resources. Uses books and videos.
 
 ## Magazines
  
-* [Bulletin of the American Mathematical Society](https://www.ams.org/journals/bull/all_issues.html) - Expository articles on contemporary mathematical research, written in a way that gives insight to mathematicians who may not be experts in the particular topic. Useful, many articles dating back to early 1900s
-* [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated. Interesting posts
-* [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - source of unique and challenging mathematical problems designed for the secondary and undergraduate levels. It includes an Olympiad Corner which is helpful for math competitions. Hyper-organized open resources
+* [American Mathematical Society](https://www.ams.org/journals/bull/all_issues.html) - Expository articles on contemporary mathematical research, written in a way that gives insight to mathematicians who may not be experts in the particular topic. Useful, many articles dating back to early 1900s
+* [Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated. Interesting posts
+* [Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - Unique, challenging math problems designed for undergraduate levels. Includes an Olympiad Corner which is helpful for math competitions. Hyper-organized open resources
 
 ## Blogs
 
@@ -107,7 +107,6 @@ A collection of modern math resources. Uses books and videos.
 * [How to Become a Pure Math Statistician](https://hbpms.blogspot.com/) list of undergrad resources, 2012
 
 ## Misc
-* [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University) some old resources, 2003-2020?
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (1917) this is a pretty interesting book, it goes over the history of math
 * [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Andrews (1917) goes over magic squares and their history, interesting but extra material
 
@@ -177,15 +176,12 @@ A collection of modern math resources. Uses books and videos.
 ### Abstract Algebra
 
 * [Introduction to Abstract Algebra](https://github.com/HimoriK/awesome-math/files/11939661/MTH_581-582_Introduction_to_Abstract_Algebra.pdf) Introductory text with notation
+* [Abstract Algebra: AMS](https://amazon.com/Algebra-Chelsea-Publishing-Saunders-Lane/dp/0821816462) Classic, timeless book
 * [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) Clear text, must read
 * [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier (Check their extra works at their .io domain)
+* [](https://www.amazon.com/Contemporary-Abstract-Algebra-Textbooks-Mathematics-dp-0367651785)
 * [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett Author tried to make the subject understandable
-* [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami) Pretty good intro that eases into to both subjects
-* [Abstract Algebra: A Concrete Introduction](https://www.amazon.com/Abstract-Algebra-Concrete-Introduction-Beachy/dp/0130044253) Math sorcerer recommends, but dated
-* [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross (haven't checked, not a fan of videos though)
-* [Modern Algebra I](https://github.com/HimoriK/awesome-math/files/11968804/Modern.Algebra.I.1965.PrenticeHall.pdf) - Seth Warner Old text, but seems ok (replace)
 * [Noncommutative Rings](https://amazon.com/First-Course-Noncommutative-Graduate-Mathematics/dp/0387953256)
-* [Abstract Algebra: AMS](https://amazon.com/Algebra-Chelsea-Publishing-Saunders-Lane/dp/0821816462)
 
 ### Group Theory
 
