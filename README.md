@@ -42,13 +42,13 @@ A collection of modern math resources. Uses books and videos.
 
 * ~~[Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) **Tome**, mid reference~~
 * [Algebra Collection](https://math.oit.edu/~watermang/texts.html) diverse, brief with [links](https://youtube.com/@watermanOIT)
-* [Before Calculus](placebo.com) pick it
+* [Before Calculus](https://archive.org/details/beforecalculusfu1989leit) pick it
 * [Precalculus Collection](https://www.stitz-zeager.com/) Various books on precalculus, an AIO [bundle](https://www.openintro.org/)
 * [Trig Worksheet](https://www.trigcheatsheet.com/) diagram worksheet
 * [Understanding Linear Algebra](https://understandinglinearalgebra.org/home.html) good book, clear
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/ila.pdf) great book, 450 pages
 * [Tea Time Linear Algebra](https://raw.githubusercontent.com/lqbrin/tea-time-linear/main/TeaTimeLinearAlgebra-edition02.pdf) best book possibly
-* [Linear Algebra 4th Edtion](https://joshua.smcvt.edu/linearalgebra/book.pdf) - Jim Hefferon small font, clear
+* [Linear Algebra 4th Edtion](https://joshua.smcvt.edu/linearalgebra/book.pdf) - Hefferon small font, clear
 * [GNU Octave Intro](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) Bonus
 * [Abstract Algebra](http://abstract.ups.edu/download/aata-20220728.pdf)
 * [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/GIAM.pdf) 'intro to proofs'
@@ -91,7 +91,7 @@ A collection of modern math resources. Uses books and videos.
 * [Precalculus](http://www.wallace.ccfaculty.org/) - Wallace, many learning materials
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
-* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Gallier (UPenn) TOME, pretty good
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Gallier (UPenn) TOME, good
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
@@ -99,7 +99,7 @@ A collection of modern math resources. Uses books and videos.
  
 * [American Mathematical Society](https://www.ams.org/journals/bull/all_issues.html) - Expository articles on contemporary mathematical research, written in a way that gives insight to mathematicians who may not be experts in the particular topic. Useful, many articles dating back to early 1900s
 * [Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - News, opinions, and articles related to mathematics, so the reader stays updated. Interesting posts
-* [Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - Unique, challenging math problems designed for undergraduate levels. Includes an Olympiad Corner which is helpful for math competitions. Hyper-organized open resources
+* [Canadian Mathematical Society](https://cms.math.ca/publications/crux/) - Unique, challenging math problems designed for undergraduate levels. Includes an Olympiad Corner. Hyper-organized open resources
 
 ## Blogs
 
@@ -120,7 +120,7 @@ A collection of modern math resources. Uses books and videos.
 ### Set Theory
 
 * [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) same thing, but specific
-* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss, kinda boring, but maybe important to read
+* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - Weiss, kinda boring, but maybe important
 
 ### Logic
 
@@ -130,7 +130,7 @@ A collection of modern math resources. Uses books and videos.
 * [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) advanced text on 'logic'
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) brief 
 * [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) old book, maybe useful?
-* [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) easy intro to proofs book, 2016
+* [Proofs and Concepts: fundamentals of abstract math](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) easy intro to proofs, 2016
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf) ok proofs book
 * [Logic and Proof](http://leanprover.github.io/logic_and_proof/) another good intro 
 * [Open Logic Textbook](http://builds.openlogicproject.org/) L collaborative effort, main contributors listed [here](https://openlogicproject.org/people/)
@@ -179,8 +179,8 @@ A collection of modern math resources. Uses books and videos.
 * [Abstract Algebra: AMS](https://amazon.com/Algebra-Chelsea-Publishing-Saunders-Lane/dp/0821816462) Classic, timeless book
 * [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) Clear text, must read
 * [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier (Check their extra works at their .io domain)
-* [](https://www.amazon.com/Contemporary-Abstract-Algebra-Textbooks-Mathematics-dp-0367651785)
-* [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett Author tried to make the subject understandable
+* [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Howlett, author tried to make the subject easy
+* [Synopsis of Pure Mathematics](https://archive.org/details/synopsisofelemen00carrrich) Ramanujan used it, careful its from 1886
 * [Noncommutative Rings](https://amazon.com/First-Course-Noncommutative-Graduate-Mathematics/dp/0387953256)
 
 ### Group Theory
@@ -190,25 +190,23 @@ A collection of modern math resources. Uses books and videos.
 
 ### Linear Algebra
 
-* [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell good
+* [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - Carrell good
 * [Understanding Linear Algebra](https://understandinglinearalgebra.org/home.html) - David Austin good, organized in a friendly way
 * [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch good
 * [Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Nathaniel-Johnston/dp/3030528103) [vid](https://www.youtube.com/watch?v=KJcROj6fP4s)
-* [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett interesting text, watermarked
-* [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon font sucks, but ok
+* [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Howlett interesting text, watermarked
+* [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Hefferon font sucks, but ok
 * [Intro Linear Algebra](https://math.oit.edu/~watermang/math_341/341book_18.pdf) solid, may need formatting or update Waterman, 2016
 * [Elementary Linear Algebra](https://github.com/HimoriK/awesome-math/files/13064537/Elementary.Linear.Algebra.-.Munkres.1964.pdf) dated, possibly useful Munkres, 1964
-* [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
-* [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford), Lieven Vandenberghe (UCLA) This book is pretty good
+* [A First Courses in Linear Algebra](http://linear.ups.edu/) - Breezer
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - Cherney, etc
+* [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Boyd (Stanford), Vandenberghe (UCLA) This book is pretty good
 * [Elements of Abstract & Linear Algebra](https://www.math.miami.edu/~ec/book/book.pdf) good, by Connell
-* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller Interesting way to teach the subject, and isn't swarmed with words
-* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff Read the PDF, the site can be confusing, text heavy, in depth
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström etc Interesting way to teach the subject, and isn't swarmed with words
+* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Margalit and Rabinoff Read the PDF, the site can be confusing, text heavy, in depth
 * [Linear Algebra 5th ed](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/B0B9HBT4XH) I heard this was good
 * [Linear Algebra](https://www.math.brown.edu/~treil/papers/LADW/LADW_2021_01-11.pdf) Linear Algebra Done Wrong - Sergei Treil 
 Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w errors
-* [Intro Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/1733146679) Gilbert strang's latest book, ehh
-* [Linear Algebra Foundations](https://www.cs.utexas.edu/users/flame/laff/laff/LAFF-2.00M.pdf) Robert, Margaret extra
 
 ### Galois Theory
 
@@ -217,13 +215,13 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 ## Combinatorics
 
 * [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) Good 
-* [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) ok but off formatting
+* [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) ok but formatting
 * [Foundations of Combinatorics with Applications](https://archive.org/download/flooved3540/flooved3540.pdf) direct, dated
 * [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) good book, 800+ pages
 
 ### Graph Theory
 
-* [Graph Theory 5th Edition](https://github.com/HimoriK/awesome-math/files/11980196/GTM.pdf) - Reinhard Diestel recent but text heavy
+* [Graph Theory 5th Edition](https://github.com/HimoriK/awesome-math/files/11980196/GTM.pdf) - Diestel recent but text heavy
 * [Graph Theory](https://github.com/HimoriK/awesome-math/files/11980263/Graph.theory-Springer2008.pdf) - explanatory, but lengthy, old but few good resources on subject
 
 
@@ -326,7 +324,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 ### Ordinary Differential Equations
 
-* [Elementary Differential Equations With Boundary Value Problems](https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1008&context=mono) - William F. Trench pretty good text
+* [Elementary Differential Equations With Boundary Value Problems](https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1008&context=mono) - Trench pretty good text
 
 ### Partial Differential Equations
 
@@ -348,7 +346,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
 * [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/) - Rundel, Johanna (pretty new)
 * [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) fun text with examples
-* [Knowing the Odds: An Introduction to Probability](https://github.com/HimoriK/awesome-math/files/11974946/Knowing.the.Odds.pdf) elegant, bridges intermediate to advanced concepts
+* [Knowing the Odds: An Introduction to Probability](https://github.com/HimoriK/awesome-math/files/11974946/Knowing.the.Odds.pdf) elegant, bridges intermediate/advanced concepts
 * [Seeing Theory](https://seeing-theory.brown.edu/) visual
 
 ### Statistical Learning
@@ -357,7 +355,7 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) Ab
 * [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang ok notes
 * [Machine Learning for Engineers and Scientists](https://smlbook.org/book/sml-book-draft-latest.pdf) great introduction to machine learning, 2022
-* [Reinforcement Learning: An Introduction](https://ia802802.us.archive.org/8/items/rlbook2018/RLbook2018.pdf) wordy, hard to read font, DOES introduce the topic though
+* [Reinforcement Learning: An Introduction](https://ia802802.us.archive.org/8/items/rlbook2018/RLbook2018.pdf) wordy, hard to read font, but DOES introduce the topic
 
 ### Stochastic processes
 
@@ -373,14 +371,14 @@ Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w e
 
 * [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/resources/notes.pdf) Clear notes
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) concise, good intro with examples
-* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) Advanced but details application of mathematical modeling
+* [Advanced Numerical Methods and Applications to Industrial Problems](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) Advanced, details application of mathematical modeling
 
 
 ## Signal processing
 
 * [Introduction to Signal Processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) thick, but good book
 * [Think DSP](https://greenteapress.com/wp/think-dsp/) Incredibly short python book on DSP concepts 
-* [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) Might be important to read at some point
+* [Linear algebra, signal processing, and wavelets: Unified](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) Might be important eventually
 
 
 ## Mathematics for Computer Science
@@ -429,4 +427,4 @@ To contribute;
 
 Any contributions are appreciated!
 
-[Table of Contents](https://github.com/HimoriK/#contents)
+[Table of Contents](https://github.com/HimoriK/modern-math-collection#contents)
