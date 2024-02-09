@@ -206,7 +206,7 @@ A collection of modern math resources. Uses books and videos.
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Margalit and Rabinoff Read the PDF, the site can be confusing, text heavy, in depth
 * [Linear Algebra 5th ed](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/B0B9HBT4XH) I heard this was good
 * [Linear Algebra](https://www.math.brown.edu/~treil/papers/LADW/LADW_2021_01-11.pdf) Linear Algebra Done Wrong - Sergei Treil 
-Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w errors
+* Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w errors
 
 ### Galois Theory
 
