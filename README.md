@@ -149,6 +149,7 @@ A collection of modern math resources. Uses books and videos.
 * [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) ok intro text
 * [Elementary Number Theory:Primes, Congruences, and Secrets](https://wstein.org/ent/ent.pdf) **great** brief text
 * [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) light text on number theory
+* [Number Theory for Beginners](https://www.amazon.com/Number-Theory-Beginners-Andre-Weil/dp/038790381X) old classic
 * [Introduction to the Theory of Numbers](http://www.trillia.com/dA/moser-number-a4-one.pdf) mid
 * [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) interesting text, although font sucks
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) decent
@@ -415,6 +416,9 @@ A collection of modern math resources. Uses books and videos.
 * [K-12 Aptitude Decline](https://www.pbs.org/newshour/show/study-shows-parents-overestimate-their-students-academic-progress)
 * [Test Score Success Correlation](https://www.nber.org/papers/w30701)
 * [The Beginnings & Evolution of Algebra](https://github.com/HimoriK/modern-math-collection/files/13861730/The.beginnings.and.evolution.of.algebra.Bashmakova.pdf)
+* [Number Theory: An Approach Through History](https://archive.org/details/numbertheoryappr0000weil) 
+* [The Exact Sciences in Antiquity](https://www.amazon.com/Exact-Sciences-Antiquity-Neugebauer/dp/0486223329) seems good
+* [Greek Mathematical Thought](https://www.amazon.com/Mathematical-Thought-Origin-Algebra-Mathematics/dp/0486272893) possibly biased
 
 ## Contribute
 
