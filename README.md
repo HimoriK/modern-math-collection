@@ -86,6 +86,7 @@ A collection of modern math resources. Uses books and videos.
 
 ## Books
 
+* [Ace Algebra](https://archive.org/details/everything-you-need-to-ace-pre-algebra-and-algebra-i-in-one-big-fat-notebook-the)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/book.html)
 * [Trigonometry](https://www.mecmath.net/trig/Trigonometry.pdf)
 * [Precalculus](http://www.wallace.ccfaculty.org/) - Wallace, many learning materials
@@ -253,6 +254,8 @@ A collection of modern math resources. Uses books and videos.
 * [Principles of Topology](https://www.amazon.com/Principles-Topology-Dover-Books-Mathematics/dp/0486801543) Croom (easiest introduction)
 * [Topology](https://www.amazon.com/Topology-Classic-Classics-Advanced-Mathematics/dp/0134689518) Munkres (highly recommended)
 * [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) good
+* [Topology for Computing](https://www.amazon.com/Computing-Cambridge-Monographs-Computational-Mathematics/dp/0521136091)
+* [Topology, Geometry and Gauge fields: Foundations](https://www.amazon.com/Topology-Geometry-Gauge-fields-Foundations/dp/1441972536) good examples
 * [Topology Topics](http://mathonline.wikidot.com/topology) wiki
 
 ### Algebraic Topology
