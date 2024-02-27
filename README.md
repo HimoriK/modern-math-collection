@@ -86,7 +86,7 @@ A collection of modern math resources. Uses books and videos.
 
 ## Books
 
-* [Ace Algebra](https://archive.org/details/everything-you-need-to-ace-pre-algebra-and-algebra-i-in-one-big-fat-notebook-the)
+* [Pre-Algebra](https://www.redwoods.edu/Portals/121/PreAlgText/Prealgebra.pdf)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/book.html)
 * [Trigonometry](https://www.mecmath.net/trig/Trigonometry.pdf)
 * [Precalculus](http://www.wallace.ccfaculty.org/) - Wallace, many learning materials
@@ -270,7 +270,7 @@ A collection of modern math resources. Uses books and videos.
 
 ### Real Analysis
 
-* [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) ok book, 1k pages
+* ~~[Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) ok book, 1k pages~~
 * [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) Good
 * [The Calculus 7](https://a.co/d/7qKoCsh) Legendary calculus book [single variable](https://archive.org/details/calculus7ofsingl0000leit/mode/2up?view=theater)
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) ok eventually
@@ -279,7 +279,6 @@ A collection of modern math resources. Uses books and videos.
 * [Elementary Calculus](https://www.mecmath.net/calculus/ElementaryCalculus.pdf) **GREAT** book, has followups
 * [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) **Challenging** workbooks, has elegant formatting
 * [Calculus Made Easy](https://schtschenok.github.io/calculus-made-easy/) - Silvanus P. Thompson (1910) **Important**
-* [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) not a bad text, 1911
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) ok
 * [Elementary Real Analysis](https://github.com/HimoriK/awesome-math/files/11967359/TBB-AllChapters-Landscape.pdf) **GREAT** book
 * [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/) current 2023, open source, webwork **GREAT** book
@@ -356,7 +355,6 @@ A collection of modern math resources. Uses books and videos.
 ### Statistical Learning
 
 * [An Introduction to Statistical Learning with Applications in R](https://trevorhastie.github.io/ISLR/ISLR%20Seventh%20Printing.pdf) not a fan of R, but great book
-* [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) Ab
 * [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang ok notes
 * [Machine Learning for Engineers and Scientists](https://smlbook.org/book/sml-book-draft-latest.pdf) great introduction to machine learning, 2022
 * [Reinforcement Learning: An Introduction](https://ia802802.us.archive.org/8/items/rlbook2018/RLbook2018.pdf) wordy, hard to read font, but DOES introduce the topic
@@ -391,6 +389,7 @@ A collection of modern math resources. Uses books and videos.
 * [Isomorphism](https://github.com/liuxinyu95/unplugged/files/11070580/unplugged-en.pdf) fun math programming book
 * [TheoryOfComputation](https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf) good
 * [Discrete Structures for Computer Science:Counting, Recursion, and Probability](https://cglab.ca/~michiel/DiscreteStructures/DiscreteStructures.pdf) optional
+* [PML Machine Learning](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
 * [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) grad level
 * [Computer Networks](https://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf) detailed, good book
 * [Computer Networking Principles & Practice](https://beta.computer-networking.info) eh
