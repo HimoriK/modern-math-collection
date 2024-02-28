@@ -54,7 +54,7 @@ A collection of modern math resources. Uses books and videos.
 * [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/GIAM.pdf) 'intro to proofs'
 * [Probability for the Enthusiastic Beginner](https://github.com/HimoriK/awesome-math/files/13058663/Probability2016.pdf) intense 'beginner' book 
 * [Introduction to Probability](https://projects.iq.harvard.edu/stat110/) full resources, perhaps best stats book
-* [Modern Statistical Thinking](https://statsthinking21.github.io/statsthinking21-core-site) 
+* [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/) new revision
 * [Multivariable Calculus](https://www.whitman.edu/mathematics/multivariable/) ok intro to calculus, use 'early transcendental' versions
 * [Vector Calculus](https://mecmath.net/VectorCalculus.pdf) 'calc3'
 * [Measure, Integration & Real Analysis](https://measure.axler.net/MIRA.pdf) difficult text
@@ -346,7 +346,7 @@ A collection of modern math resources. Uses books and videos.
 ### Statistics
 
 * [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University) (lengthy, but good)
-* [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell A. Poldrack
+* ~~[Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell Poldrack~~
 * [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/) - Rundel, Johanna (pretty new)
 * [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) fun text with examples
 * [Knowing the Odds: An Introduction to Probability](https://github.com/HimoriK/awesome-math/files/11974946/Knowing.the.Odds.pdf) elegant, bridges intermediate/advanced concepts
