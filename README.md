@@ -417,6 +417,7 @@ A collection of modern math resources. Uses books and videos.
 
 * [K-12 Aptitude Decline](https://www.pbs.org/newshour/show/study-shows-parents-overestimate-their-students-academic-progress)
 * [Test Score Success Correlation](https://www.nber.org/papers/w30701)
+* [The Quest for Artificial Intelligence](https://ai.stanford.edu/~nilsson/QAI/qai.pdf)
 * [The Beginnings & Evolution of Algebra](https://github.com/HimoriK/modern-math-collection/files/13861730/The.beginnings.and.evolution.of.algebra.Bashmakova.pdf)
 * [Number Theory: An Approach Through History](https://archive.org/details/numbertheoryappr0000weil) 
 * [The Exact Sciences in Antiquity](https://www.amazon.com/Exact-Sciences-Antiquity-Neugebauer/dp/0486223329) seems good
