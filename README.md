@@ -54,7 +54,7 @@ A collection of modern math resources. Uses books and videos.
 * [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/GIAM.pdf) 'intro to proofs'
 * [Probability for the Enthusiastic Beginner](https://github.com/HimoriK/awesome-math/files/13058663/Probability2016.pdf) intense 'beginner' book 
 * [Introduction to Probability](https://projects.iq.harvard.edu/stat110/) full resources, perhaps best stats book
-* [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/) new revision
+* [Introductory Statistics Explained](https://dropbox.com/s/ovh113q3yragh9p/jb_ies_110_CC.pdf?e=1&dl=0) Balka, stats sage, very [organized](https://jbstatistics.com/text-resources)
 * [Multivariable Calculus](https://www.whitman.edu/mathematics/multivariable/) ok intro to calculus, use 'early transcendental' versions
 * [Vector Calculus](https://mecmath.net/VectorCalculus.pdf) 'calc3'
 * [Measure, Integration & Real Analysis](https://measure.axler.net/MIRA.pdf) difficult text
@@ -345,19 +345,27 @@ A collection of modern math resources. Uses books and videos.
 
 ### Statistics
 
-* [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University) (lengthy, but good)
-* ~~[Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Russell Poldrack~~
-* [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/) - Rundel, Johanna (pretty new)
+* [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - J Gentle (lengthy, but good)
 * [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) fun text with examples
 * [Knowing the Odds: An Introduction to Probability](https://github.com/HimoriK/awesome-math/files/11974946/Knowing.the.Odds.pdf) elegant, bridges intermediate/advanced concepts
 * [Seeing Theory](https://seeing-theory.brown.edu/) visual
+* [Beginning Statistics](https://ia800200.us.archive.org/29/items/2012BeginningStatistics/2012_beginning-statistics.pdf) [or](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_(Shafer_and_Zhang)) (v2 as 'Introductory Statistics: A First Course')
+* [Introduction to Probability](https://www.amazon.com/Introduction-Probability-Harold-J-Larson/dp/0201512866) Good, Larson 1995
+* [Intro to Probability Theory & Statistical Inference](https://amazon.com/Introduction-Probability-Theory-Statistical-Inference/dp/0471059099) Good, more indepth, Larson 1991
+* [Statistics: An Introduction](https://www.amazon.com/Introduction-Probability-Harold-J-Larson/dp/0201512866) Many exercises, Larson 1975
+* [Introductory Statistics](https://amazon.com/Introductory-Statistics-9th-Prem-Mann-ebook/dp/B01DV7OEBY) Prem, decent
+* [Probability and Statistics for Economists](https://www.amazon.com/Probability-Statistics-Economists-Bruce-Hansen/dp/0691235945) Bruce, good
+* [Econometrics](https://www.amazon.com/Econometrics-Bruce-Hansen/dp/0691235899) Bruce, good
+* [Introduction to Statistics and Econometrics](https://www.amazon.com/Introduction-Statistics-Econometrics-Takeshi-Amemiya/dp/0674462254) ok
 
 ### Statistical Learning
 
-* [An Introduction to Statistical Learning with Applications in R](https://trevorhastie.github.io/ISLR/ISLR%20Seventh%20Printing.pdf) not a fan of R, but great book
+* [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com) in Python or R
 * [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang ok notes
 * [Machine Learning for Engineers and Scientists](https://smlbook.org/book/sml-book-draft-latest.pdf) great introduction to machine learning, 2022
 * [Reinforcement Learning: An Introduction](https://ia802802.us.archive.org/8/items/rlbook2018/RLbook2018.pdf) wordy, hard to read font, but DOES introduce the topic
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) 
+* [Essential Statistical Physics](https://www.amazon.com/Essential-Statistical-Physics-Malcolm-Kennett/dp/1108480780)
 
 ### Stochastic processes
 
