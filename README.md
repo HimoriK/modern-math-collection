@@ -1,5 +1,5 @@
 # Modern Math
-A collection of modern math resources. Uses books and videos.
+A collection of modern math learning resources. Uses books and videos.
 * [New Math](https://en.wikipedia.org/wiki/New_Math) | [Math Education](https://en.wikipedia.org/wiki/Mathematics_education)
 
 # Contents
@@ -341,17 +341,16 @@ A collection of modern math resources. Uses books and videos.
 * [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Kroese (University of Queensland) good intro
 * [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Vallentin (UC Berkeley) cookbook cheatsheet
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - Chen, also check [Introduction to Probability](https://github.com/HimoriK/modern-math-collection/files/13261277/Introduction.to.Probability.pdf)
+* [Introduction to Probability](https://www.amazon.com/Introduction-Probability-Harold-J-Larson/dp/0201512866) Good, Larson 1995
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan, ok text
 
 ### Statistics
 
-* [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - J Gentle (lengthy, but good)
-* [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) fun text with examples
+* [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - J Gentle (lengthy, good)
+* [Odds and Ends: Introducing Probability & Decision with Visual Emphasis](https://jonathanweisberg.org/vip/) fun w examples
 * [Knowing the Odds: An Introduction to Probability](https://github.com/HimoriK/awesome-math/files/11974946/Knowing.the.Odds.pdf) elegant, bridges intermediate/advanced concepts
 * [Seeing Theory](https://seeing-theory.brown.edu/) visual
-* [Beginning Statistics](https://ia800200.us.archive.org/29/items/2012BeginningStatistics/2012_beginning-statistics.pdf) [or](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_(Shafer_and_Zhang)) (v2 as 'Introductory Statistics: A First Course')
-* [Introduction to Probability](https://www.amazon.com/Introduction-Probability-Harold-J-Larson/dp/0201512866) Good, Larson 1995
-* [Intro to Probability Theory & Statistical Inference](https://amazon.com/Introduction-Probability-Theory-Statistical-Inference/dp/0471059099) Good, more indepth, Larson 1991
+* [Beginning Statistics](https://ia800200.us.archive.org/29/items/2012BeginningStatistics/2012_beginning-statistics.pdf) [or](https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_(Shafer_and_Zhang)) (v2 'Introductory Statistics: A First Course')
 * [Statistics: An Introduction](https://www.amazon.com/Introduction-Probability-Harold-J-Larson/dp/0201512866) Many exercises, Larson 1975
 * [Introductory Statistics](https://amazon.com/Introductory-Statistics-9th-Prem-Mann-ebook/dp/B01DV7OEBY) Prem, decent
 * [Probability and Statistics for Economists](https://www.amazon.com/Probability-Statistics-Economists-Bruce-Hansen/dp/0691235945) Bruce, good
@@ -360,6 +359,7 @@ A collection of modern math resources. Uses books and videos.
 
 ### Statistical Learning
 
+* [Intro to Probability Theory & Statistical Inference](https://amazon.com/Introduction-Probability-Theory-Statistical-Inference/dp/0471059099) Good, indepth, Larson 1991
 * [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com) in Python or R
 * [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang ok notes
 * [Machine Learning for Engineers and Scientists](https://smlbook.org/book/sml-book-draft-latest.pdf) great introduction to machine learning, 2022
