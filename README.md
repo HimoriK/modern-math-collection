@@ -40,7 +40,6 @@ A collection of modern math learning resources. Uses books and videos.
 
 ## Recommended List
 
-* ~~[Advanced Algebra v 1.0](https://2012books.lardbucket.org/pdfs/advanced-algebra.pdf) **Tome**, mid reference~~
 * [Algebra Collection](https://math.oit.edu/~watermang/texts.html) diverse, brief with [links](https://youtube.com/@watermanOIT)
 * [Before Calculus](https://archive.org/details/beforecalculusfu1989leit) pick it
 * [Precalculus Collection](https://www.stitz-zeager.com/) Various books on precalculus AIO [bundle](https://www.openintro.org/)
@@ -48,7 +47,6 @@ A collection of modern math learning resources. Uses books and videos.
 * [Understanding Linear Algebra](https://understandinglinearalgebra.org/home.html) good book, clear
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/ila.pdf) great book, 450 pages
 * [Tea Time Linear Algebra](https://raw.githubusercontent.com/lqbrin/tea-time-linear/main/TeaTimeLinearAlgebra-edition02.pdf) best book possibly
-* [Linear Algebra 4th Edtion](https://joshua.smcvt.edu/linearalgebra/book.pdf) - Hefferon small font, clear
 * [GNU Octave Intro](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) Bonus
 * [Abstract Algebra](http://abstract.ups.edu/download/aata-20220728.pdf)
 * [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/GIAM.pdf) 'intro to proofs'
@@ -68,7 +66,6 @@ A collection of modern math learning resources. Uses books and videos.
 * [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor/playlists) great channel, TOCT teaches every subject efficiently
 * [Mathematical Monk](https://www.youtube.com/@mathematicalmonk) byte-sized scientific maths (2010), check probability playlist
 * [HamblinMath](https://www.youtube.com/@HamblinMath) variety of math vids, check linear algebra playlist
-* ~~[M4ML](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) Machine Learning math course~~
 
 ## Tools
 
@@ -93,7 +90,7 @@ A collection of modern math learning resources. Uses books and videos.
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod (Georgia Tech)
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Gallier (UPenn) TOME, good
-* [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+* [Online Mathematics Textbooks](https://web.archive.org/web/20220524045314/https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## Magazines
@@ -197,7 +194,7 @@ A collection of modern math learning resources. Uses books and videos.
 * [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch good
 * [Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Nathaniel-Johnston/dp/3030528103) [vid](https://www.youtube.com/watch?v=KJcROj6fP4s)
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Howlett interesting, watermarked
-* [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Hefferon font sucks, but ok
+* [Linear Algebra](https://upload.wikimedia.org/wikipedia/commons/a/a3/Jim_Hefferon_-_Linear_Algebra_%284th_Edition%29.pdf) - Hefferon, its ok
 * [Intro Linear Algebra](https://math.oit.edu/~watermang/math_341/341book_18.pdf) solid, may need formatting or update Waterman, 2016
 * [Elementary Linear Algebra](https://github.com/HimoriK/awesome-math/files/13064537/Elementary.Linear.Algebra.-.Munkres.1964.pdf) dated, possibly useful Munkres, 1964
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - Breezer
@@ -207,7 +204,7 @@ A collection of modern math learning resources. Uses books and videos.
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström etc Interesting, 
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Margalit & Rabinoff Read PDF, the site can be confusing, text heavy, in depth
 * [Linear Algebra 5th ed](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/B0B9HBT4XH) I heard this was good
-* [Linear Algebra](https://www.math.brown.edu/~treil/papers/LADW/LADW_2021_01-11.pdf) Linear Algebra Done Wrong - Sergei Treil 
+* [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW_2024_10-01.pdf) - Treil 
 * Serge Lang Intro to / linear algebra (Optional, has 2 versions) terse, dated w errors
 
 ### Galois Theory
@@ -270,7 +267,6 @@ A collection of modern math learning resources. Uses books and videos.
 
 ### Real Analysis
 
-* ~~[Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) ok book, 1k pages~~
 * [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) Good
 * [The Calculus 7](https://a.co/d/7qKoCsh) Legendary calculus book [single variable](https://archive.org/details/calculus7ofsingl0000leit/mode/2up?view=theater)
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) ok eventually
