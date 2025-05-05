@@ -129,7 +129,7 @@ A collection of modern math learning resources. Uses books and videos.
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) brief 
 * [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) old book, maybe useful?
 * [Proofs and Concepts](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) easy intro to proofs, 2016
-* [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf) ok proofs book
+* [Book of Proof](https://richardhammack.github.io/BookOfProof/Main.pdf) ok proofs book
 * [Logic and Proof](http://leanprover.github.io/logic_and_proof/) another good intro 
 * [Open Logic Textbook](http://builds.openlogicproject.org/) L collaborative effort, main contributors listed [here](https://openlogicproject.org/people/)
 
